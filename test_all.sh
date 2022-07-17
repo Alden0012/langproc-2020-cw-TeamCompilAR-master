@@ -1,0 +1,13 @@
+./test_compiler.sh compiler_tests/array/
+./test_compiler.sh compiler_tests/control_flow/
+./test_compiler.sh compiler_tests/default/
+./test_compiler.sh compiler_tests/float/
+./test_compiler.sh compiler_tests/functions/
+./test_compiler.sh compiler_tests/integer/
+./test_compiler.sh compiler_tests/local_var/
+./test_compiler.sh compiler_tests/misc/
+./test_compiler.sh compiler_tests/pointer/
+./test_compiler.sh compiler_tests/programs/
+./test_compiler.sh compiler_tests/strings/
+./test_compiler.sh compiler_tests/structs/
+./test_compiler.sh compiler_tests/types/
